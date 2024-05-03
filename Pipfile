@@ -8,9 +8,11 @@ pip = "*"
 install = "*"
 groq = "*"
 pyside6 = "*"
+requests = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.11"
-python_full_version = "3.11.4"
+python_full_version = "3.11.6"
